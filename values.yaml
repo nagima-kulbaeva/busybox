@@ -1,0 +1,8 @@
+Cronjob_name:
+  name: hello 
+  container_name: hello 
+
+  
+busybox_image: 
+  repository: busybox 
+  tag: 1.32.0

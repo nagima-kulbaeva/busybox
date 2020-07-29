@@ -1,0 +1,4 @@
+apiVersion: v2
+name: hello
+description: A Helm Chart for CronJob by Nagima
+version: 1.0.0
